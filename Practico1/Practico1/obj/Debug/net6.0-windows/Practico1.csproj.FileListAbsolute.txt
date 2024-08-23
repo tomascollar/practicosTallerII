@@ -1,0 +1,48 @@
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.exe
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.deps.json
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.runtimeconfig.json
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.pdb
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\refint\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.pdb
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\ref\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.Form1.resources
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.exe
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.deps.json
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.dll
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.pdb
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.Form1.resources
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.dll
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\refint\Practico1.dll
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.pdb
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos taller 2\Practico1\Practico1\obj\Debug\net6.0-windows\ref\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.exe
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.deps.json
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.runtimeconfig.json
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.pdb
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\refint\Practico1.dll
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.pdb
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Escritorio\asd\practicosTallerII\Practico1\Practico1\obj\Debug\net6.0-windows\ref\Practico1.dll
