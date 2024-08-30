@@ -1,0 +1,20 @@
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\bin\Debug\Practico4.exe
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\bin\Debug\Practico4.pdb
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\obj\Debug\Practico4.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\obj\Debug\Practico4.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\obj\Debug\Practico4.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\obj\Debug\Practico4.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\obj\Debug\Practico4.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\obj\Debug\Practico4.exe
+C:\Users\tomas\OneDrive\Escritorio\tp4\Practico4\obj\Debug\Practico4.pdb
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\bin\Debug\Practico4.exe
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\bin\Debug\Practico4.pdb
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\obj\Debug\Practico4.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\obj\Debug\Practico4.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\obj\Debug\Practico4.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\obj\Debug\Practico4.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\obj\Debug\Practico4.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\obj\Debug\Practico4.exe
+C:\Users\tomas\OneDrive\Escritorio\Nueva carpeta\Practico4\obj\Debug\Practico4.pdb

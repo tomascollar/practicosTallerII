@@ -1,0 +1,31 @@
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\bin\Debug\Practico_5.exe.config
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\bin\Debug\Practico_5.exe
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\bin\Debug\Practico_5.pdb
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.AssemblyReference.cache
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.SuggestedBindingRedirects.cache
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.Form1.resources
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.Properties.Resources.resources
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.GenerateResource.cache
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.CoreCompileInputs.cache
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.exe
+E:\Curso C#\Practicos en C#\Practico_5\Practico_5\obj\Debug\Practico_5.pdb
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\bin\Debug\Practico_5.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\bin\Debug\Practico_5.exe
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\bin\Debug\Practico_5.pdb
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\obj\Debug\Practico_5.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\obj\Debug\Practico_5.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\obj\Debug\Practico_5.exe
+C:\Users\tomas\OneDrive\Escritorio\Practicos-main\Practico_5\Practico_5\obj\Debug\Practico_5.pdb
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\bin\Debug\Practico_5.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\bin\Debug\Practico_5.exe
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\bin\Debug\Practico_5.pdb
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\obj\Debug\Practico_5.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\obj\Debug\Practico_5.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\obj\Debug\Practico_5.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\obj\Debug\Practico_5.exe
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\Practicos proyectos\Practico_5\Practico_5\obj\Debug\Practico_5.pdb
